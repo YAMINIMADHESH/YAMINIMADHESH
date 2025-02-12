@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAMINIMADHESH&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yamini-madhesh)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 Let's build something awesome together! 🚀
