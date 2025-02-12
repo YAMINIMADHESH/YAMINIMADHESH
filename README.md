@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! 👋 I'm Yamini
 
-<!--
-**YAMINIMADHESH/YAMINIMADHESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and digital marketing. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I work primarily with **Java, MySQL, and Web Development**.
+- 🎯 Skilled in **Digital Marketing** and leveraging technology for online growth.
+- 🌐 Experienced in **Frontend Development** with HTML, CSS, JavaScript, and Bootstrap.
+- 📚 Always learning new technologies and improving my skills.
+- 🏆 Open to collaborations and exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Java, MySQL
+- **Marketing:** SEO, Content Strategy, Social Media Marketing
+- **Tools & Others:** Git, GitHub, VS Code, Postman
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAMINIMADHESH&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+Let's build something awesome together! 🚀
+
